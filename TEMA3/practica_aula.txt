@@ -1,0 +1,5 @@
+usando funciones
+grep, cut, sort
+
+crear un archivo de log de auditoria de accesos
+IA > 50 datos
