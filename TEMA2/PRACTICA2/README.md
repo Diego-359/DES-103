@@ -1,4 +1,4 @@
-#Práctica Tema 2: Funciones, argumentos y retorno
+# Práctica Tema 2: Funciones, argumentos y retorno
 
 ## Nombre: DIEGO ESTEBAN ARANCIBIA LEON
 
