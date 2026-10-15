@@ -1,0 +1,10 @@
+2026-05-19 08:00:01 INFO Servicio iniciado desde 192.168.1.10
+2026-05-19 08:01:12 ERROR Fallo de autenticación desde 192.168.1.20
+2026-05-19 08:02:33 WARNING Uso alto de memoria en servidor 192.168.1.15
+2026-05-19 08:03:45 FAILED password for usuario admin from 192.168.1.20
+2026-05-19 08:04:55 ERROR No se pudo abrir archivo de configuración
+2026-05-19 08:05:10 INFO Conexión aceptada desde 10.0.0.5
+2026-05-19 08:06:22 FAILED login from 192.168.1.20
+2026-05-19 08:07:35 WARNING Espacio en disco superior al 80%
+2026-05-19 08:08:42 ERROR Servicio detenido inesperadamente desde 10.0.0.5
+2026-05-19 08:09:51 INFO Servicio reiniciado correctamente

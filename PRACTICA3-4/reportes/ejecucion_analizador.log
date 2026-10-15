@@ -1,0 +1,9 @@
+[INFO] 2026-10-14 22:15:27 - Inicio de análisis
+[INFO] 2026-10-14 22:15:27 - Archivo procesado: logs/sistema.log
+[INFO] 2026-10-14 22:15:27 - Reporte generado: reportes/reporte_log_2026-10-14_22-15-27.txt
+[INFO] 2026-10-14 22:15:27 - Fin de análisis
+[ERROR] 2026-10-14 22:16:40 - El archivo de log no existe: logs/noexiste.log
+[INFO] 2026-10-14 22:33:01 - Inicio de análisis
+[INFO] 2026-10-14 22:33:01 - Archivo procesado: /home/diegod/DES103-22026/PRACTICA3-4/logs/sistema.log
+[INFO] 2026-10-14 22:33:01 - Reporte generado: /home/diegod/DES103-22026/PRACTICA3-4/reportes/reporte_log_2026-10-14_22-33-01.txt
+[INFO] 2026-10-14 22:33:01 - Fin de análisis

@@ -1,0 +1,42 @@
+======================================
+ REPORTE DE ANÁLISIS DE LOG
+======================================
+Archivo analizado: /home/diegod/DES103-22026/PRACTICA3-4/logs/sistema.log
+Fecha de análisis: 2026-10-14 22:33:01
+
+1. Cantidad total de líneas: 10
+2. Líneas con 'error': 3
+3. Líneas con 'failed': 2
+4. Líneas con 'warning': 2
+
+5. Top 10 direcciones IP más repetidas:
+      3 192.168.1.20
+      2 10.0.0.5
+      1 192.168.1.15
+      1 192.168.1.10
+
+6. Top 10 palabras más frecuentes:
+     11 08
+     10 2026-05-19
+      4 desde
+      3 n
+      3 de
+      3 Servicio
+      3 INFO
+      3 ERROR
+      3 192.168.1.20
+      2 from
+
+7. Eventos por nivel:
+      3 INFO
+      3 ERROR
+      2 WARNING
+      2 FAILED
+
+8. Eventos por fecha:
+     10 2026-05-19
+
+9. Resumen final:
+Se analizaron 10 líneas del archivo /home/diegod/DES103-22026/PRACTICA3-4/logs/sistema.log.
+Se encontraron 3 líneas con error y 2 con failed.
+cuidao hay accesos fallidos repetidos, revisa las ip.
