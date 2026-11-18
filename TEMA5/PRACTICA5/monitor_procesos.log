@@ -1,0 +1,41 @@
+[INFO] Inicio: Wed Nov 18 18:01:18 -04 2026
+=== TOP 5 PROCESOS POR CPU ===
+=== TOP 5 PROCESOS POR MEMORIA ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         308  0.0  0.5 123476 32604 ?        Ssl  15:08   0:01 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         150  0.0  0.5  44112 29764 ?        Ss   15:08   0:02 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root          65  0.0  0.2  50396 17084 ?        S<s  15:08   0:03 /usr/lib/systemd/systemd-journald
+root           1  0.0  0.2  24184 15408 ?        Ss   15:07   0:08 /sbin/init
+systemd+     105  0.0  0.2  22428 14484 ?        Ss   15:08   0:01 /usr/lib/systemd/systemd-resolved
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+diegod      4935 50.0  0.0   7160  4372 pts/0    R+   18:01   0:00 ps aux --sort=-%cpu
+diegod      4936 50.0  0.0   7160  4420 pts/0    R+   18:01   0:00 ps aux --sort=-%mem
+root           1  0.0  0.2  24184 15408 ?        Ss   15:07   0:08 /sbin/init
+root         111  0.0  0.2  35404 12272 ?        Ss   15:08   0:05 /usr/lib/systemd/systemd-udevd
+root         446  0.0  0.0   3200  1252 ?        S    15:08   0:04 /init
+
+
+[INFO] Fin: Wed Nov 18 18:01:18 -04 2026
+[INFO] Limpieza ejecutada: Wed Nov 18 18:01:18 -04 2026
+[INFO] Inicio: Wed Nov 18 18:01:41 -04 2026
+=== TOP 5 PROCESOS POR CPU ===
+=== TOP 5 PROCESOS POR MEMORIA ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.2  24184 15408 ?        Ss   15:07   0:08 /sbin/init
+root         111  0.0  0.2  35404 12272 ?        Ss   15:08   0:05 /usr/lib/systemd/systemd-udevd
+root         446  0.0  0.0   3200  1252 ?        S    15:08   0:04 /init
+root          65  0.0  0.2  50396 17084 ?        S<s  15:08   0:03 /usr/lib/systemd/systemd-journald
+diegod       447  0.0  0.1   7104  6480 pts/0    Ss   15:08   0:02 -bash
+
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         308  0.0  0.5 123476 32604 ?        Ssl  15:08   0:01 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         150  0.0  0.5  44112 29764 ?        Ss   15:08   0:02 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root          65  0.0  0.2  50396 17084 ?        S<s  15:08   0:03 /usr/lib/systemd/systemd-journald
+root           1  0.0  0.2  24184 15408 ?        Ss   15:07   0:08 /sbin/init
+systemd+     105  0.0  0.2  22428 14484 ?        Ss   15:08   0:01 /usr/lib/systemd/systemd-resolved
+
+Busqueda: bash
+447 -bash
+573 -bash
+[INFO] Fin: Wed Nov 18 18:01:41 -04 2026
+[INFO] Limpieza ejecutada: Wed Nov 18 18:01:41 -04 2026
