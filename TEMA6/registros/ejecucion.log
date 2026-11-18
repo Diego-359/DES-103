@@ -1,0 +1,19 @@
+[2026-11-17 22:46:59] Inicio del asistente
+[2026-11-17 22:47:34] ERROR: El archivo no existe: /etc/Ãpasswd
+[2026-11-17 22:47:54] ERROR: El archivo no existe: /etc/Ãpasswd
+[2026-11-17 22:53:54] Inicio del asistente
+[2026-11-17 22:54:01] Archivo validado: /etc/passwd
+[2026-11-17 22:54:29] Consulta de variables de entorno
+[2026-11-17 22:54:34] Fin del asistente
+[2026-11-17 23:00:31] Inicio del asistente
+[2026-11-17 23:00:34] Consulta de variables de entorno
+[2026-11-17 23:01:14] Archivo validado: /etc/passwd
+[2026-11-17 23:01:52] ERROR: El archivo no existe: /ruta/fasadsadsag
+[2026-11-17 23:02:32] Numero validado: 12
+[2026-11-17 23:02:49] ERROR: El numero debe estar entre 1 y 20
+[2026-11-17 23:03:15] Consulta de recursos del sistema
+[2026-11-17 23:03:42] Demostracion de export y unset
+[2026-11-17 23:04:01] Fin del asistente
+[2026-11-17 23:04:02] Inicio del asistente
+[2026-11-17 23:04:07] Demostracion de export y unset
+[2026-11-17 23:04:37] Inicio del asistente
